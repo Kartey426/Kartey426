@@ -1,6 +1,6 @@
 # Hi, I'm Kartavya 👋
 
-CS undergrad at BITS Pilani, Goa Campus — graduating May 2026. I like building things close to the metal and shipping tools that actually get used.
+CS undergrad at BITS Pilani, Goa Campus — graduating Aug 2026. I like building backend systems and low-level infrastructure — and shipping tools that actually get used.
 
 Currently interning as an SDE at **Commvault**, where I work on security signal ingestion pipelines — async vendor API pulls, threat detection, and resilient distributed processing. Previously built real-time GPU-accelerated 3D pose estimation pipelines at **Quidich Innovation Labs** for broadcast and AR/VR.
 
