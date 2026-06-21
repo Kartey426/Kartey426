@@ -12,7 +12,7 @@ Currently interning as an SDE at **Commvault**, where I work on security signal 
 
 **[3D Pose Estimation](https://github.com/harshitkapoor03/3D_Pose_estimation)** — Multi-camera 3D pose pipeline for sports analytics, built during my internship at Quidich. YOLO-based detection, FastReID for player re-identification, and triangulation across camera views. (contributed via a separate account)
 
-**[Distributed Rate Limiter & Mini API Gateway](https://github.com/Kartey426/ratelimiter)** — Token bucket and sliding window rate limiting backed by Redis, with every check-and-increment done atomically via a Lua script so it stays correct across multiple gateway instances, not just one process. Includes a concurrent Go load-test client built to prove the limit holds under real concurrency, not just assert it on paper.
+**[Distributed Rate Limiter & Mini API Gateway](https://github.com/Kartey426/ratelimiter)** — Token bucket and sliding window rate limiting backed by Redis, with every check-and-increment done atomically via a Lua script so it stays correct across multiple gateway instances, not just one process. Includes a concurrent Go load-test client built to prove the limit holds under real concurrency.
 
 ## Tech I work with
 
